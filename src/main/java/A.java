@@ -13,6 +13,7 @@ public final class A implements Serializable{
 
     private int a;
     private int b;
+    private int c;
 
     public A() {
     }
